@@ -1,0 +1,24 @@
+.area{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.name{
+  color: rgb(40, 179, 132);
+  font-weight: 600;
+}
+.introduce {
+  list-style: none;
+  
+}
+
+.favorite-things-area{
+  margin-top: 1em;
+}
+.title {
+  color: rgb(40, 179, 132);
+  font-weight: 600;
+}
+.list {
+  list-style: none;
+}
